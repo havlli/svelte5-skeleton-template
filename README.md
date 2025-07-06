@@ -18,7 +18,7 @@ A ready-to-use Svelte 5 template with Skeleton UI, Tailwind CSS, and essential t
 Ensure you have [Node.js](https://nodejs.org/) installed.
 
 ### Installation
-Clone this repository and install dependencies:
+Either use this repository as template or clone this repository and install dependencies:
 
 ```sh
 git clone https://github.com/havlli/svelte5-skeleton-template.git
