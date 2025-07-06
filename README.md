@@ -21,7 +21,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed.
 Clone this repository and install dependencies:
 
 ```sh
-git clone https://github.com/yourusername/svelte5-skeleton-template.git
+git clone https://github.com/havlli/svelte5-skeleton-template.git
 cd svelte5-skeleton-template
 npm install
 ```
